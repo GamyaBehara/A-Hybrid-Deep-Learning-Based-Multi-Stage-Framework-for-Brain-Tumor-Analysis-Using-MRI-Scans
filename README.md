@@ -15,9 +15,9 @@ RESULTS OF THE WORKING MODEL
 <br>
 <img width="1229" height="549" alt="image" src="https://github.com/user-attachments/assets/c18e3fee-f8c5-476e-9872-cdf3f4036e15" />
 <br>
-<img width="1225" height="527" alt="image" src="https://github.com/user-attachments/assets/5916f18a-5672-45f7-8d5b-889b01be7b99" />
+<img width="1648" height="529" alt="image" src="https://github.com/user-attachments/assets/874856e8-8ebd-4932-a5e4-b72a5a7b220c" />
 <br>
-<img width="1225" height="527" alt="image" src="https://github.com/user-attachments/assets/989d63bf-957b-4d88-b801-029ee0543fb6" />
+<img width="1225" height="527" alt="image" src="https://github.com/user-attachments/assets/5916f18a-5672-45f7-8d5b-889b01be7b99" />
 <br>
 <img width="1229" height="404" alt="image" src="https://github.com/user-attachments/assets/d588934c-cefa-463c-b816-56e69eb74540" />
 <br>
