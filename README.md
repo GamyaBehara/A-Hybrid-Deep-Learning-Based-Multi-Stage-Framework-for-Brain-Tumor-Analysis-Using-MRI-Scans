@@ -1,6 +1,7 @@
 METHODOLOGY OF THE PROJECT
 
 <img width="1832" height="701" alt="image" src="https://github.com/user-attachments/assets/bf552bf3-1e43-46f6-9988-e1eb616a58a1" />
+<br>
 
 <img width="889" height="841" alt="image" src="https://github.com/user-attachments/assets/a65bde8b-0bbf-4313-8e3f-2156b18f425f" />
 
