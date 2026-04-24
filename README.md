@@ -21,42 +21,37 @@ Classification (CNN)
 Visualization (Grad-CAM)
 Tumor Localization & Severity Analysis
 📂 Dataset
+
 Source: Kaggle Brain Tumor MRI Dataset
+
 Classes:
-🧬 Glioma Tumor
-🧬 Meningioma Tumor
-🧬 Pituitary Tumor
-✅ No Tumor
+
+Glioma Tumor
+Meningioma Tumor
+Pituitary Tumor
+No Tumor
 ⚙️ Technologies Used
-🐍 Python
-🤖 TensorFlow / Keras
-🔢 NumPy
-📊 Pandas
-🖼️ OpenCV
-📈 Matplotlib
-📉 Scikit-learn
+Python
+TensorFlow / Keras
+NumPy
+Pandas
+OpenCV
+Matplotlib
+Scikit-learn
 🔄 Workflow
-📥 Data Collection & Preprocessing
-🔀 Data Splitting (Training & Testing)
-🧠 Autoencoder Feature Extraction
-🔍 CNN Model Training & Classification
-📊 Model Evaluation
-🔥 Grad-CAM Visualization
-🎯 Tumor Masking & Severity Analysis
-📤 Final Prediction Output
+Data Collection & Preprocessing
+Data Splitting (Training & Testing)
+Autoencoder Feature Extraction
+CNN Model Training & Classification
+Model Evaluation
+Grad-CAM Visualization
+Tumor Masking & Severity Analysis
+Final Prediction Output
 📊 Results
 🎯 Achieved ~89% accuracy
 ✅ Strong performance in No Tumor & Pituitary classes
 ⚠️ Minor confusion between Glioma & Meningioma
 🔍 Grad-CAM improves model interpretability
-📸 Sample Outputs
-🖼️ MRI Image Input
-🔥 Grad-CAM Heatmap
-🎯 Tumor Mask
-📊 Final Classification with Confidence Score
-⚠️ Severity Level Output
-
-
 
 METHODOLOGY OF THE PROJECT
 
