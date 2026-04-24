@@ -64,6 +64,7 @@ The system follows a multi-stage pipeline:
 - Tumor Masking & Severity Analysis  
 - Final Prediction Output 
 
+---
 
 ## 📸 Screenshots of the project
 
