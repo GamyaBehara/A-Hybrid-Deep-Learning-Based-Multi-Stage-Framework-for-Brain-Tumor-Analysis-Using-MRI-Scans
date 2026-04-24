@@ -64,11 +64,8 @@ The system follows a multi-stage pipeline:
 - Tumor Masking & Severity Analysis  
 - Final Prediction Output 
 
-METHODOLOGY OF THE PROJECT
 
-
-
-RESULTS OF THE WORKING MODEL
+## 📸 Screenshots of the project
 
 <br>
 <img width="1078" height="506" alt="image" src="https://github.com/user-attachments/assets/2401a8ce-f0e5-4b4c-946d-7a8c385f5c7d" />
@@ -84,3 +81,38 @@ RESULTS OF THE WORKING MODEL
 <img width="1229" height="404" alt="image" src="https://github.com/user-attachments/assets/d588934c-cefa-463c-b816-56e69eb74540" />
 <br>
 <img width="1167" height="556" alt="image" src="https://github.com/user-attachments/assets/237f38b3-cb82-4047-94dc-0c319896cc8c" />
+
+---
+
+## 📊 Results
+- 🎯 Achieved ~89% accuracy  
+- ✅ Strong performance in No Tumor & Pituitary classes  
+- ⚠️ Minor confusion between Glioma & Meningioma  
+- 🔍 Grad-CAM improves model interpretability  
+
+---
+
+## 📸 Sample Outputs
+- MRI Image Input  
+- Grad-CAM Heatmap  
+- Tumor Mask  
+- Final Classification with Confidence Score  
+- Severity Level Output  
+
+---
+
+## ⚠️ Limitations
+- Slight overfitting observed  
+- Requires large dataset for better generalization  
+- Grad-CAM provides approximate localization  
+- Not a replacement for clinical diagnosis  
+
+---
+
+## 🔮 Future Scope
+- Integration with advanced segmentation models (U-Net)  
+- Use of multi-modal MRI data  
+- Deployment as a web-based diagnostic tool  
+- Real-time clinical validation  
+
+---
