@@ -1,65 +1,72 @@
-🧠 Brain Tumor Detection using Hybrid Deep Learning
-📌 Overview
+# 🧠 Brain Tumor Detection using Hybrid Deep Learning
 
+## 📌 Overview
 This project presents a hybrid multi-stage deep learning framework for automated brain tumor detection and analysis using MRI images. The system combines autoencoder-based feature extraction, CNN-based classification, Grad-CAM visualization, and tumor severity estimation to provide accurate, interpretable, and clinically useful results.
 
-🎯 Key Features
-✅ Multi-class tumor classification (Glioma, Meningioma, Pituitary, No Tumor)
-✅ Autoencoder-based feature extraction for noise reduction
-✅ CNN model for accurate classification
-✅ Grad-CAM visualization for interpretability
-✅ Tumor localization using threshold-based masking
-✅ Tumor area calculation & severity analysis
-✅ Comprehensive diagnostic output
-🧠 Model Architecture
+---
 
+## 🚀 Key Features
+- ✅ Multi-class tumor classification (Glioma, Meningioma, Pituitary, No Tumor)
+- ✅ Autoencoder-based feature extraction for noise reduction
+- ✅ CNN model for accurate classification
+- ✅ Grad-CAM visualization for interpretability
+- ✅ Tumor localization using threshold-based masking
+- ✅ Tumor area calculation & severity analysis
+- ✅ Comprehensive diagnostic output
+
+---
+
+## 🧩 Model Architecture
 The system follows a multi-stage pipeline:
 
-Image Preprocessing
-Feature Extraction (Autoencoder)
-Classification (CNN)
-Visualization (Grad-CAM)
-Tumor Localization & Severity Analysis
-📂 Dataset
-
-Source: Kaggle Brain Tumor MRI Dataset
-
-Classes:
-
-Glioma Tumor
-Meningioma Tumor
-Pituitary Tumor
-No Tumor
-⚙️ Technologies Used
-Python
-TensorFlow / Keras
-NumPy
-Pandas
-OpenCV
-Matplotlib
-Scikit-learn
-🔄 Workflow
-Data Collection & Preprocessing
-Data Splitting (Training & Testing)
-Autoencoder Feature Extraction
-CNN Model Training & Classification
-Model Evaluation
-Grad-CAM Visualization
-Tumor Masking & Severity Analysis
-Final Prediction Output
-📊 Results
-🎯 Achieved ~89% accuracy
-✅ Strong performance in No Tumor & Pituitary classes
-⚠️ Minor confusion between Glioma & Meningioma
-🔍 Grad-CAM improves model interpretability
-
-METHODOLOGY OF THE PROJECT
+1. Image Preprocessing  
+2. Feature Extraction (Autoencoder)  
+3. Classification (CNN)  
+4. Visualization (Grad-CAM)  
+5. Tumor Localization & Severity Analysis
 
 <img width="1832" height="701" alt="image" src="https://github.com/user-attachments/assets/bf552bf3-1e43-46f6-9988-e1eb616a58a1" />
 <br>
 
 <img width="889" height="841" alt="image" src="https://github.com/user-attachments/assets/a65bde8b-0bbf-4313-8e3f-2156b18f425f" />
 <br>
+
+---
+
+## 📂 Dataset
+- **Source:** Kaggle Brain Tumor MRI Dataset  
+- **Classes:**
+  - Glioma Tumor
+  - Meningioma Tumor
+  - Pituitary Tumor
+  - No Tumor  
+
+---
+
+## 🛠️ Technologies Used
+- Python  
+- TensorFlow / Keras  
+- NumPy  
+- Pandas  
+- OpenCV  
+- Matplotlib  
+- Scikit-learn  
+
+---
+
+## ⚙️ Workflow
+- Data Collection & Preprocessing  
+- Data Splitting (Training & Testing)  
+- Autoencoder Feature Extraction  
+- CNN Model Training & Classification  
+- Model Evaluation  
+- Grad-CAM Visualization  
+- Tumor Masking & Severity Analysis  
+- Final Prediction Output 
+
+METHODOLOGY OF THE PROJECT
+
+
 
 RESULTS OF THE WORKING MODEL
 
